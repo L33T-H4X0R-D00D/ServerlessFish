@@ -1,6 +1,6 @@
 # ServerlessFish
 Fish predictions
-v 0.11
+v 0.12
 
 
 
@@ -27,7 +27,7 @@ v 0.11
 
 # User story
 
-User provides location data (City, zip, etc). App returns calendar showing grade for each item tracked and cumulative grade. Show UUID based on newest data date to ensure users understand when newest data has been added to prediction.
+User provides location data (City, zip, etc), app returns html calendar showing grade for each item tracked and cumulative grade. Show UUID based on newest data date to ensure users understand when newest data has been added to prediction.
 
 
 
