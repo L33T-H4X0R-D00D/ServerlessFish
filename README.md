@@ -1,6 +1,6 @@
 # ServerlessFish
 Fish predictions
-v 0.13
+v 0.14
 
 
 
@@ -18,7 +18,7 @@ v 0.13
 * Estimated water temp -
 * Cloud cover -
 * Wind - 
-* Barometric Pressure -
+* Barometric Pressure -  https://github.com/attack/barometer
 * Tides/Moonphases -
 * Precipitiation -
 * Hatch dates and types -
